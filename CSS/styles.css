@@ -1,0 +1,273 @@
+body {
+    background-color: #F6F1F1;
+    
+
+}
+
+.saibamais {
+    padding-left: 13.5px;
+
+
+}
+
+.saibamais:hover {
+	transform: scale(1.2);
+}
+
+.con2 {
+    float: right;
+
+}
+
+.con3 {
+    float: left;
+    margin-right: 3%;
+}
+
+.contato {
+    background-color: white;
+
+       
+}
+
+.contato img:hover {
+	transform: scale(1.2);
+}
+
+
+.divlogo {
+    background-color: white;
+}
+
+.divplanosmaior {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 2px;
+    margin-right: 0%;
+}
+
+.divquemsomos {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 2px;
+    margin-right: 0%;
+    float: left;
+
+}
+
+.equipe-img {
+    width: 32%;
+    height: 32%;
+    float: right;
+    position: relative;
+    bottom: 200px;
+
+}
+
+.equipe-img:hover {
+    transform: initial;
+}
+
+.fonteplanofibra {
+    color: white;
+
+
+}
+
+.fundo {
+    margin-top: 10px;
+    width: 75%;
+    border-radius: 10%;
+    padding: 20px;
+    padding-top: 2px;
+    float: right
+
+}
+
+.fundoa:after {
+    background-color: rgba(0,0,0,0.5);;
+    opacity: 0.5;
+
+
+}
+
+h4 {
+    font-style: italic;
+    font-size: 200%;
+    color: white;
+
+
+}
+
+h2 {
+    font-style: italic;
+    color: #3e5e85;
+    
+}
+
+hr {
+    border: none;
+    background-image: linear-gradient(to right, rgba(56, 79, 145, 0), rgba(47, 66, 148, 0.75), rgba(0, 0, 0, 0));
+    height: 5px;
+ }
+
+.logo {
+    position: relative; top: 10px;
+
+    
+}
+
+.logofibra {
+    width: 100%;
+    height: 100%;
+    padding-top: 10%;
+
+
+}
+  
+.maisdetalhes {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 700;
+    font-size: 100%;
+    color: white;
+    font-size: 20px;
+
+}
+
+.mensalidade {
+    position: relative;
+    bottom: 20px;
+    left: 5px;
+
+
+}
+
+.one {
+    float: left;
+}
+
+.planomensalista {
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 2px;
+    margin-left: 40%;
+    margin-right: 45%;
+    background-image: url('https://img.freepik.com/fotos-premium/fundo-gradiente-dourado-desfocado-com-pano-de-fundo-brilhante-suave_364465-31.jpg?w=900');
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+.planoavulso {
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 2px;
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-right: 45%;
+    background-image: url('https://img.freepik.com/vetores-gratis/fundo-texturizado-metalico_53876-89255.jpg?w=740&t=st=1680361362~exp=1680361962~hmac=d49117b106f18da2e0f09486c6cc7f636ea7e70cf9ab4be293c8bddecc992549');
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+.planofibra {
+    background-image: url(https://img.freepik.com/free-photo/dark-concrete-texture-background_24837-397.jpg?w=740&t=st=1681236660~exp=1681237260~hmac=7fd27cf91f48b0462076933f63ab06871071fda84dae0c9dd83c2a94329dd183);
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 2px;
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-right: 45%;
+}
+    
+
+
+.pag2 {
+    background-color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    margin-bottom: 10%;
+    display: block;
+
+}
+
+.topicos {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: inherit;
+    font-weight: inherit;
+    color: #3e5e85;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.topicos2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: inherit;
+    font-weight: inherit;
+    color: #3e5e85;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 10%;
+}
+
+.topicos3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: inherit;
+    font-weight: bold;
+    color: #3e5e85;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 10%;
+}
+
+.vantagens {
+    background-color: white;
+    margin-top: 10px;
+    margin-right: 80%;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 2px;
+    
+}
+
+.whatsapp {
+    position: relative;
+    top: 10px;
+}
+
+.email {
+    margin-bottom: 10px;
+    position: relative;
+    top: 10px;
+}
+
+/* INICIO DA BARRA DE TESTE */
+
+.barra {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f2f2f2;
+    height: 50px;
+    position: relative;
+  }
+  
+  .barra a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 0 20px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .barra a:hover {
+    background-color: #ddd;
+    color: #000;
+  }
+  
+  /* FIM DA BARRA DE TESTE */
