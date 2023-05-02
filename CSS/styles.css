@@ -47,6 +47,10 @@ body {
     margin-right: 0%;
 }
 
+/* estilos para dispositivos de tela pequena */
+
+@media only screen and (max-width: 600px)
+
 .divquemsomos {
     background-color: white;
     border-radius: 10px;
