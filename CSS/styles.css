@@ -193,6 +193,12 @@ hr {
 
 }
 
+.tabela {
+   max-width: 100%;
+   height: auto;
+
+}
+
 .topicos {
     font-family: Arial, Helvetica, sans-serif;
     color: #3e5e85;
