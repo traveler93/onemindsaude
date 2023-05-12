@@ -147,7 +147,8 @@ hr {
     float: left;
 }
 
-.planomensalista {
+@media (max-width: 767px) {
+ .planomensalista {
     border-radius: 10px;
     padding: 20px;
     padding-top: 2px;
@@ -156,6 +157,7 @@ hr {
     background-image: url('https://img.freepik.com/fotos-premium/fundo-gradiente-dourado-desfocado-com-pano-de-fundo-brilhante-suave_364465-31.jpg?w=900');
     background-size: cover;
     background-blend-mode: overlay;
+	}
 }
 
 .planoavulso {
